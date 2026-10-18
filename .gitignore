@@ -1,5 +1,7 @@
 data/*.csv
 data/*.jsonl
+data/*.db
+data/*.db.wal
 .venv/
 .DS_Store
 __pycache__
