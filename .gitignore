@@ -2,7 +2,12 @@ data/*.csv
 data/*.jsonl
 data/*.db
 data/*.db.wal
+data/*.tsv
+data/*.json
+data/*.parquet
+
 .venv/
 .DS_Store
 __pycache__
 .ipynb_checkpoints
+
